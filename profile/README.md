@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://airpost.sh">Website</a> ·
   <a href="https://github.com/airpost-mail/airpost">Source</a> ·
-  <a href="https://github.com/airpost-mail/airpost/blob/main/docs/install.md">Install</a> ·
+  <a href="https://docs.airpost.sh/install">Install</a> ·
   <a href="https://github.com/airpost-mail/airpost/blob/main/CONTRIBUTING.md">Contributing</a>
 </p>
 
@@ -35,4 +35,4 @@ AI features (summaries, reply suggestions, inbox sorting) are optional and off b
 | Repo | What it is |
 | --- | --- |
 | [airpost](https://github.com/airpost-mail/airpost) | Desktop app, Rust engine, CLI, MCP server, gateway and web client |
-| [.github](https://github.com/airpost-mail/.github) | This page and org-wide community files |
+| [.github](https://github.com/airpost-mail/.github) | This page |
