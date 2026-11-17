@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://airpost.app">Website</a> ·
+  <a href="https://airpost.sh">Website</a> ·
   <a href="https://github.com/airpost-mail/airpost">Source</a> ·
   <a href="https://github.com/airpost-mail/airpost/blob/main/docs/install.md">Install</a> ·
   <a href="https://github.com/airpost-mail/airpost/blob/main/CONTRIBUTING.md">Contributing</a>
